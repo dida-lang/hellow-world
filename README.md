@@ -1,2 +1,2 @@
 # hellow-world
-the first step
+the first step to create some computer games !!
